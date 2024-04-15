@@ -23,22 +23,21 @@ comment:
 # La firma digitale
 
 
-This is your **firma digitale** initialization stub.
+La firma digitale è l'equivalente della firma scritta su carta ed ha pari valore legale. 
 
 
-Please see the [Docs](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md)
-to find out what is possible in [LiaScript](https://liascript.github.io).
+
+![](https://www.altalex.com//~/media/Images/Lex/Informatica/firma-digitale%20jpg.jpg)
 
 
-If you want to use instant help in your Atom IDE, please type **lia** to see all available shortcuts.
-
+![](https://trasformazionedigitale.bit4id.com/wp-content/uploads/2023/02/firma-digitale-remota.jpg)
 
 ## Cos'è lo SPID
 
 
 __SPID__ (Sistema Pubblico per la gestione dell’Identità Digitale):
-framework per la gestione dell’Identità Digitale.
-Il framework facilita lo sviluppo del software.
+framework per la gestione dell’Identità Digitale e viene utilizzato per ilo riconoscimento della frima digitale. 
+Il framework facilita lo sviluppo del software. 
 
 
 __Utenti__, sono persone fisiche giuridiche che sono associate a uno o piùaccounbtcontenenti informazioni personali.
@@ -46,9 +45,16 @@ __Identity Provider__ (IdP), creano e gestiscono gli account e sono dei soggetti
 __Attribute Authorities__ (o Provider),persone con il compito di certificare.
 __Service Provider__ (SP), organizzazioni pubbliche o private che forniscono un servizio agli utenti utilizzati
 un servizio agli utenti autorizzati.
-Ø__ Una terza parte fidata__ (TTP), che garantisce i livelli standard di sicurezza
-richiesti da SPID e certifica le entità coinvolte.
+__ Una terza parte fidata__ (TTP), garantisce i livelli standard di sicurezza richiesti dallo SPID.
 
+
+
+
+Lo SPID è stato inventato per servizzi che hanno diversi livelli di criticità. 
+
+In base al tipo di sevizio si può richiedere l'autenticazione didiverso livello. 
+
+Abbiamo 3 livelli di robustezza, SPIDL1, SPIDL2, SPIDL3. 
 
 ## Markdown
 
