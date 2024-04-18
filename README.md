@@ -25,6 +25,20 @@ comment:
 
 La firma digitale è l'equivalente della firma scritta su carta ed ha pari valore legale. 
 
+La firma digitale è anche chiamata Firma Elettronica Qualificata. 
+
+Essa può essere ottenuta anche utilizzando lo SPID come sistema di riconoscimento. 
+
+Per la firma digitale si utilizza un supporto come la business key, o una carta simile alla carta di credito, la firma digitale remota invece non richiede l'utilizzo di smart card o di un hardware. 
+
+| PRO | CONTRO |
+| -------- | :------: |
+| si utilizza meno carta | l'utente può firmare con la firma digitale solo in un dispositivo, a causa della chiave privata |
+| non è falsificabile     | non si può essere certi dell'autenticazione della firma     |
+
+
+Namirial è una società informatica, unica nel suo genere, essa si occupa di servizzi nati con lo scopo di portare il business online. In più è un'azienda che produce soluzioni softwore ed è la migliore per creare firme digitali. 
+
 
 
 ![](https://www.altalex.com//~/media/Images/Lex/Informatica/firma-digitale%20jpg.jpg)
@@ -56,211 +70,16 @@ In base al tipo di sevizio si può richiedere l'autenticazione didiverso livello
 
 Abbiamo 3 livelli di robustezza, SPIDL1, SPIDL2, SPIDL3. 
 
-## Markdown
+## Marca Temporale della firma digitale
 
 
-You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax to create your course, such as:
+La marca temporale indica il momento in cui la firma digitale è stata creata e garantisce la validità di essa nel tempo. 
 
+La marca temporale garantisce la vidità legale della firma di 3 anni, ma all'interno del computer la firma rimane per 20 anni. 
 
-1. Lists
-2. ordered or
+### Spider
 
 
-   * unordered
-   * ones ...
-
-
-
-
-| Header 1   | Header 2   |
-| :--------- | :--------- |
-| Item 1     | Item 2     |
-
-
-
-
-Images:
-
-
-![images](https://farm2.static.flickr.com/1618/26701766821_7bea494826.jpg)
-
-
-
-
-### Extensions
-
-
-     --{{0}}--
-But you can also include other features such as spoken text.
-
-
-      --{{1}}--
-Insert any kind of audio file:
-
-
-       {{1}}
-?[audio](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
-
-
-
-
-     --{{2}}--
-Even videos or change the language completely.
-
-
-       {{2-3}}
-!?[video](https://www.youtube.com/watch?v=bICfKRyKTwE)
-
-
-
-
-      --{{3 Russian Female}}--
-Первоначально создан в 2004 году Джоном Грубером (англ. John Gruber) и Аароном
-Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по
-разметке текста в электронных письмах...
-
-
-
-
-    {{3}}
-Type "voice" to see a list of all available languages.
-
-
-
-
-### Styling
-
-
-<!-- class = "animated rollIn" style = "animation-delay: 2s; color: purple" -->
-The whole text-block should appear in purple color and with a wobbling effect.
-Which is a **bad** example, please use it with caution ...
-~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
-
-
-## Charts
-
-
-Use ASCII-Art to draw diagrams:
-
-
-                                    Multiline
-    1.9 |    DOTS
-        |                 ***
-      y |               *     *
-      - | r r r r r r r*r r r r*r r r r r r r
-      a |             *         *
-      x |            *           *
-      i | B B B B B * B B B B B B * B B B B B
-      s |         *                 *
-        | *  * *                       * *  *
-     -1 +------------------------------------
-        0              x-axis               1
-
-
-## Quizzes
-
-
-
-
-### A Textquiz
-
-
-What did the **fish** say when he hit a **concrete wall**?
-
-
-    [[dam]]
-
-
-### Multiple Choice
-
-
-Just add as many points as you wish:
-
-
-    [[X]] Only the **X** marks the correct point.
-    [[ ]] Empty ones are wrong.
-    [[X]] ...
-
-
-### Single Choice
-
-
-Just add as many points as you wish:
-
-
-    [( )] ...
-    [(X)] <-- Only the **X** is allowed.
-    [( )] ...
-
-
-## Executable Code
-
-
-A drawing example, for demonstrating that any JavaScript library can be used, also for drawing.
-
-
-```javascript
-// Initialize a Line chart in the container with the ID chart1
-new Chartist.Line('#chart1', {
-  labels: [1, 2, 3, 4],
-  series: [[100, 120, 180, 200]]
-});
-
-
-// Initialize a Line chart in the container with the ID chart2
-new Chartist.Bar('#chart2', {
-  labels: [1, 2, 3, 4],
-  series: [[5, 2, 8, 3]]
-});
-```
-<script>@input</script>
-
-
-<div class="ct-chart ct-golden-section" id="chart1"></div>
-<div class="ct-chart ct-golden-section" id="chart2"></div>
-
-
-
-
-### Projects
-
-
-You can make your code executable and define projects:
-
-
-``` js     -EvalScript.js
-let who = data.first_name + " " + data.last_name;
-
-
-if(data.online) {
-  who + " is online"; }
-else {
-  who + " is NOT online"; }
-```
-``` json    +Data.json
-{
-  "first_name" :  "Sammy",
-  "last_name"  :  "Shark",
-  "online"     :  true
-}
-```
-<script>
-  // insert the JSON dataset into the local variable data
-  let data = @input(1);
-
-
-  // eval the script that uses this dataset
-  eval(`@input(0)`);
-</script>
-
-
-## More
-
-
-Find out what you can even do more with quizzes:
-
-
-https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md
-https://liascript.github.io/LiveEditor/?/edit/BDHWYDYCWAOySVkPYW7TNGDI
+Lo Spider scannerizza i documenti che si trovano all'interno del software. 
 
 
