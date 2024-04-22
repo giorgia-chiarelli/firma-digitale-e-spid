@@ -1,4 +1,3 @@
-<!--
 author:   Giorgia Chiarelli, Rabia Akter, Ommyshahbe Ali,Luo Kaishan
 
 
@@ -46,6 +45,37 @@ Namirial è una società informatica, unica nel suo genere, essa si occupa di se
 
 ![](https://trasformazionedigitale.bit4id.com/wp-content/uploads/2023/02/firma-digitale-remota.jpg)
 
+
+## Formati della firma
+
+I fomrati della firma sono di vario genere e consistono nell'insieme dei documenti che descrivono la firma digitale. 
+I formati sono: 
+
+* CADES, il documento può essere in qualsiasi formato; 
+
+* PADES,il documento in formato PDF;
+
+* XADES, il documento in formato XML;
+
+* ASIC-S, ASIC-E, contenitore di dati per ottenere le firme digitali, file e marche temporali. 
+
+__Revoca dei certificati__
+
+Il certificato può essere revocato su iniziativa del certificatore del titolare. 
+Per revocare ci possono essere vari motivi:  
+
+* Smarrimento o guasto al dispositivo di firma;
+
+* Smarrimento della chiave segreta o codice di attivazione;
+
+* Perdita della segretezza della chiave;
+
+* Modifica dati del titolare;
+
+* Termine del contratto tra titolare e certificatore;
+
+* Violazione delle regole di utilizzo da parte del titolare. 
+
 ## Cos'è lo SPID
 
 
@@ -77,9 +107,7 @@ La marca temporale indica il momento in cui la firma digitale è stata creata e 
 
 La marca temporale garantisce la vidità legale della firma di 3 anni, ma all'interno del computer la firma rimane per 20 anni. 
 
-### Spider
 
+__Spider__
 
 Lo Spider scannerizza i documenti che si trovano all'interno del software. 
-
-
