@@ -116,3 +116,49 @@ Lo Spider scannerizza i documenti che si trovano all'interno del software.
 
 ## QUIZ
 
+La firma digitale può essere anche chiamata:
+
+- [[ ]] firma digitale verificata
+- [[x]] firma elettronica qualificata
+- [[ ]] firma elettronica verificata
+
+
+Che cos'è Namirial:
+
+- [[ ]] firma digitale
+- [[ ]] motore di ricerca
+- [[x]] società informatica
+
+
+Quanti formati della firma digitale vengono utilizzati?:
+
+- [[ ]] 6
+- [[x]] 4
+- [[ ]] 7
+
+
+Sigla dello SPID:  
+
+- [[X]] Sistema Pubblico per la gestione dell’Identità Digitale
+- [[ ]] Sistema Privato per la gestione dell’Identità Digitale
+- [[ ]] Società Privata per la gestione dell’Identità Digitale
+
+
+Livelli di robustezza dello SPID:  
+
+- [[ ]] SPIDL1, SPIDL3
+- [[ ]] SPID2, SPID1
+- [[X]] SPIDL1, SPIDL2, SPIDL3
+
+Quanto dura la marca temporale della firma digitale all'interno del computer?:  
+
+- [[ ]] La firma digitale rimane 3 anni all'interno del computer
+- [[ ]] La firma digitale rimane all'interno del computer per sempre
+- [[x]] La firma digitale rimane 20 anni all'interno del computer
+
+
+Definizione Spider:  
+
+- [[x]] Lo Spider scannerizza i documenti che si trovano all'interno del software
+- [[ ]] Lo Spider è simile allo SPID
+- [[ ]] Lo Spider serve per creare la firma digitale
