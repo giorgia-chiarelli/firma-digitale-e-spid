@@ -22,6 +22,11 @@ comment:
 
 # La firma digitale
 
+Lavoro di Giorgia Chiarelli, Rabia Akter, Luo Kaishan, Ali Ommyshahbe
+
+Visualizza il lavoro su [liascript](https://liascript.github.io/course/?https://raw.githubusercontent.com/giorgia-chiarelli/firma-digitale-e-spid/main/README.md)
+
+## Introduzione
 
 La firma digitale è l'equivalente della firma scritta su carta ed ha pari valore legale. 
 
