@@ -167,3 +167,21 @@ Definizione Spider:
 - [[x]] Lo Spider scannerizza i documenti che si trovano all'interno del software
 - [[ ]] Lo Spider è simile allo SPID
 - [[ ]] Lo Spider serve per creare la firma digitale
+
+
+## Creative commons
+
+
+![](https://creativecommons.it/chapterIT/wp-content/uploads/2021/01/by-nc.eu_-300x105.png)
+
+
+
+- __NonCommerciale__
+
+     Non puoi utilizzare il materiale per scopi commerciali. 
+
+
+
+- __Attribuzione__
+
+     Devi riconoscere una menzione di paternità adeguata , fornire un link alla licenza e indicare se sono state effettuate delle modifiche . Puoi fare ciò in qualsiasi maniera ragionevole possibile, ma non con modalità tali da suggerire che il licenziante avalli te o il tuo utilizzo del materiale.
